@@ -33,13 +33,20 @@ ServerEvents.tags("entity_type", event => {
         "iceandfire:ice_dragon",
         "iceandfire:sea_serpent",
         "masquerader_mod:masquerader",
+        /occultism:.*((?=possessed)|(?=familiar)).*/,
+        "occultism:otherworld_bird",
+        "occultism:afrit_wild",
+        "occultism:shub_niggurath_spawn",
+        /occultism:wild_hunt_.*/,
+        /pneumaticcraft:.*/,
 
         //Non-Living
         // atleast Ars Nouveau is a bit dumb, and can catch nonliving entities :V
         "minecraft:item",
         "minecraft:arrow",
         "minecraft:spectral_arrow",
-        "tconstruct:indestructible"
+        "tconstruct:indestructible",
+        "occultism:thrown_sword"
     ])
 
 
@@ -68,6 +75,10 @@ ServerEvents.tags("entity_type", event => {
     ])
 
     event.add("enderio:spawner_blacklist", [
+        tagNoFarming
+    ])
+
+    event.add("pneumaticcraft:vacuum_trap_blacklisted", [
         tagNoFarming
     ])
 })
