@@ -589,7 +589,7 @@
 	ClawdianHealthMultiplier = 2.8
 	#Clawdian's Damage Multiplier
 	#Range: 0.0 ~ 1000000.0
-	ClawdianDamageMultiplier = 6.0
+	ClawdianDamageMultiplier = 3.0
 
 [Scylla]
 	#Scylla's Health Multiplier
@@ -597,7 +597,7 @@
 	ScyllaHealthMultiplier = 2.3
 	#Scylla's Damage Multiplier
 	#Range: 0.0 ~ 1000000.0
-	ScyllaDamageMultiplier = 6.0
+	ScyllaDamageMultiplier = 3.0
 	#Scylla's Immune to Long distance attack range.
 	#Range: 1.0 ~ 1000000.0
 	"Scylla's prevent attacks from far away Range" = 12.0
