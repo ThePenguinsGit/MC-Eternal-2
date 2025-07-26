@@ -64,6 +64,8 @@ ServerEvents.tags("entity_type", event => {
         /ars_nouveau:familiar_.*/,
         /ars_nouveau:.*_weald_walker/,
         /ars_elemental:.*_familiar/,
+        "iceandfire:dragon_egg",
+        "iceandfire:dragon_skull",
 
         //Non-Living
         // atleast Ars Nouveau is a bit dumb, and can catch nonliving entities :V
