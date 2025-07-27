@@ -1,0 +1,10 @@
+{
+  "type": "lychee:anvil_crafting",
+  "item_in": {
+    "item": "mowziesmobs:wrought_helmet"
+  },
+  "item_out": {
+    "item": "kubejs:ingot_thousand_metals",
+    "count": 3
+  }
+}
