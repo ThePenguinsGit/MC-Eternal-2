@@ -12,7 +12,7 @@
 	allowotherdimcolonies = true
 	#Max citizens in one colony. [Default: 250, min: 30, max: 500]
 	#Range: 30 ~ 500
-	maxcitizenpercolony = 50
+	maxcitizenpercolony = 80
 	#Should development features be enabled (might be buggy)? [Default: false]
 	enableindevelopmentfeatures = false
 	#Should citizen name tags be rendered? [Default: true]
