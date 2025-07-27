@@ -10,6 +10,8 @@ StartupEvents.registry("item", event => {
   
   event.create('artifact_runestone_dark_inscribed_large').displayName('§ePortal Keystone').glow(false);
 
+  event.create('ingot_thousand_metals').displayName('§eIngot of a Thousand Metals').glow(false);
+
   event.create('artifact_endergem').displayName('§bSoul Stone').glow(false);
   
   event.create('travel_ticket').displayName('§dTravel Ticket - Sakura Dimension').glow(true);
