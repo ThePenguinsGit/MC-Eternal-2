@@ -26,7 +26,8 @@ ServerEvents.tags("entity_type", event => {
         "alexsmobs:void_worm",
         "alexsmobs:void_worm_part",
         "alexscaves:forsaken",
-        "alexscaves:hullbreaker"
+        "alexscaves:hullbreaker",
+        "goety:wither_necromancer"
     ])
 
 
