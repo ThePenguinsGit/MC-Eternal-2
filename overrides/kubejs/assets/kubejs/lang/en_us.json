@@ -20,5 +20,12 @@
     "tooltip.mce2.generic.can_be_dyed": "Can be Dyed",
     "tooltip.mce2.generic.item_trash_can": "(Item Trash Can)",
     "tooltip.mce2.generic.fluid_trash_can": "(Fluid Trash Can)",
-    "tooltip.mce2.bomd.soul_star": "Rare drop from Undead mobs!"
+    "tooltip.mce2.bomd.soul_star": "Rare drop from Undead mobs!",
+    "tooltip.mce2.majruszsaccessories.generic": "Can be combined with other Accessories to craft Runes",
+    "tooltip.mce2.majruszsaccessories.rune.adventurer": "Crafted from Adventurer Kit, Ancient Scarab and Swimmer Guide",
+    "tooltip.mce2.majruszsaccessories.rune.angler": "Crafted from Angler Trophy, Metal Lure and Unbreakable Fishing Line",
+    "tooltip.mce2.majruszsaccessories.rune.household": "Crafted from Dream Catcher, Discount Voucher and Secret Ingredient",
+    "tooltip.mce2.majruszsaccessories.rune.miner": "Crafted from Miner Guide, Tool Scraps, and Lucky Rock",
+    "tooltip.mce2.majruszsaccessories.rune.nature": "Crafted from Certificate of Taming, Idol of Fertility and Tamed Potato Beetle",
+    "tooltip.mce2.majruszsaccessories.soul.minecraft": "Crafted from Adventurer Rune, Angler Rune, Household Rune, Miner Rune and Nature Rune"
 }

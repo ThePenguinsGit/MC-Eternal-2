@@ -212,4 +212,13 @@ ItemEvents.tooltip(event => {
 	event.add("#mce2:fluid_trash_cans", Text.translate("tooltip.mce2.generic.fluid_trash_can").color("#FF8888"))
 
 	event.add("bosses_of_mass_destruction:soul_star", Text.translate("tooltip.mce2.bomd.soul_star").color("#FFAA00"))
+
+	event.add("#mce2:majruszs/accessory", Text.translate("tooltip.mce2.majruszsaccessories.generic").color("#FFAA00"))
+	event.add("majruszsaccessories:adventurer_rune", Text.translate("tooltip.mce2.majruszsaccessories.rune.adventurer").color("#FFAA00"))
+	event.add("majruszsaccessories:angler_rune", Text.translate("tooltip.mce2.majruszsaccessories.rune.angler").color("#FFAA00"))
+	event.add("majruszsaccessories:household_rune", Text.translate("tooltip.mce2.majruszsaccessories.rune.household").color("#FFAA00"))
+	event.add("majruszsaccessories:miner_rune", Text.translate("tooltip.mce2.majruszsaccessories.rune.miner").color("#FFAA00"))
+	event.add("majruszsaccessories:nature_rune", Text.translate("tooltip.mce2.majruszsaccessories.rune.nature").color("#FFAA00"))
+	event.add("majruszsaccessories:soul_of_minecraft", Text.translate("tooltip.mce2.majruszsaccessories.soul.minecraft").color("#FFAA00"))
+
 })
