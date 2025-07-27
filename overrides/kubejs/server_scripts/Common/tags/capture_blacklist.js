@@ -67,6 +67,9 @@ ServerEvents.tags("entity_type", event => {
         /ars_elemental:.*_familiar/,
         "iceandfire:dragon_egg",
         "iceandfire:dragon_skull",
+        "cataclysm:netherite_ministrosity",
+        "cataclysm:the_baby_leviathan",
+        "cataclysm:modern_remnant",
 
         //Non-Living
         // atleast Ars Nouveau is a bit dumb, and can catch nonliving entities :V
