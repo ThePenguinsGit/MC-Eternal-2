@@ -210,4 +210,6 @@ ItemEvents.tooltip(event => {
 
 	event.add("#mce2:item_trash_cans", Text.translate("tooltip.mce2.generic.item_trash_can").color("#FF8888"))
 	event.add("#mce2:fluid_trash_cans", Text.translate("tooltip.mce2.generic.fluid_trash_can").color("#FF8888"))
+
+	event.add("bosses_of_mass_destruction:soul_star", Text.translate("tooltip.mce2.bomd.soul_star").color("#FFAA00"))
 })
