@@ -29,6 +29,7 @@ ItemEvents.tooltip(event => {
 	event.add('netherexp:sculk_grinder', Text.of('§8I wonder if something could absorb this power?').color('#AA00AA'));
 	event.add('rats:raw_rat', Text.of('\u00A7oYeah do not eat that...').color('#FFFFFF')); 
 	event.add('mekanism:atomic_disassembler', Text.of('§eCan be dual wielded!').color('#FFFFFF')); 
+	event.add('kubejs:ingot_thousand_metals', Text.of('§8§oContains a mixture of many alloys and materials unknown to you. This material is full of secrets that will perhaps never be understood...').color('#FFFFFF')); 
 	event.add('kubejs:mobdrop_endermanheart_beating', Text.of('§e▸ Drops from The Wither').color('#FFFFFF')); 
 	event.add('thermal:frost_melon_slice', Text.of('\u00A7o§bFreezing! Brrrr').color('#FFFFFF')); 
 	event.add('kubejs:magic_map', Text.of('Unlocks §e§nWorld-Map').color('#FFFFFF')); 
