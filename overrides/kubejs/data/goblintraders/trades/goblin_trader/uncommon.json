@@ -15,6 +15,21 @@
       },
       "price_multiplier": 0.0
     },
+
+      {
+      "type": "goblintraders:basic",
+      "experience": 4,
+      "max_trades": 10,
+      "offer_item": {
+        "count": 8,
+        "item": "alexscaves:cinder_brick"
+      },
+      "payment_item": {
+        "count": 2,
+        "item": "minecraft:emerald"
+      },
+      "price_multiplier": 0.0
+    },
   
     {
       "type": "goblintraders:basic",
