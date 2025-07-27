@@ -1,6 +1,6 @@
-ServerEvents.tag("worldgen/structure", event => {
+ServerEvents.tags("worldgen/structure", event => {
 
-    event.add("catalcysm:berserker_spawn", [
+    event.add("cataclysm:berserker_spawn", [
         "#betterfortresses:better_fortresses"
     ])
 })
