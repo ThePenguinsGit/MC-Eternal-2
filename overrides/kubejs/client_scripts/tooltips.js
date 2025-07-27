@@ -69,14 +69,14 @@ ItemEvents.tooltip(event => {
 	event.add('kubejs:scorched_letter1', Text.of('§7Right-Click to summon a temporary bodyguard!').color('#5555FF'));  
 	event.add('kubejs:scorched_letter1', Text.of('§7§oThe entity bound by this contract has sworn an oath to be summoned on command to protect its user for all of eternity...').color('#5555FF')); 
 	event.add('kubejs:scorched_letter1', Text.of('§6Watcher: 80% Chance').color('#5555FF'));  
-		event.add('kubejs:scorched_letter1', Text.of('§6The Prowler: 20% Chance').color('#5555FF')); 
+	event.add('kubejs:scorched_letter1', Text.of('§6The Prowler: 20% Chance').color('#5555FF')); 
 	event.add('kubejs:scorched_letter', Text.of('§7§oThe entity bound by this contract has sworn an oath to be summoned on command to protect its user for all of eternity...').color('#5555FF')); 
 	event.add('kubejs:elegant_letter', Text.of('§7Right-Click to summon a temporary bodyguard!').color('#5555FF'));  
 	event.add('kubejs:elegant_letter', Text.of('§7§oThe entity bound by this contract has sworn an oath to be summoned on command to protect its user for all of eternity...').color('#5555FF')); 
-		event.add('kubejs:elegant_letter', Text.of('§eNote:§r§7 This entity does large AOE attacks, watch out for friendly fire! Keep a distance while it attacks! ').color('#5555FF')); 
+	event.add('kubejs:elegant_letter', Text.of('§eNote:§r§7 This entity does large AOE attacks, watch out for friendly fire! Keep a distance while it attacks! ').color('#5555FF')); 
 	event.add('kubejs:mossy_letter', Text.of('§7Right-Click to summon a temporary bodyguard!').color('#5555FF'));  
 	event.add('kubejs:mossy_letter', Text.of('§7§oThe entity bound by this contract has sworn an oath to be summoned on command to protect its user for all of eternity...').color('#5555FF')); 
-		event.add('kubejs:mossy_letter1', Text.of('§7Right-Click to summon a temporary bodyguard!').color('#5555FF'));  
+	event.add('kubejs:mossy_letter1', Text.of('§7Right-Click to summon a temporary bodyguard!').color('#5555FF'));  
 	event.add('kubejs:mossy_letter1', Text.of('§7§oThe entity bound by this contract has sworn an oath to be summoned on command to protect its user for all of eternity...').color('#5555FF')); 
 	event.add('tconstruct:punji', Text.of('\u00A7oDeals damage to entities, does not destroy items').color('#FFFFFF'));
 	event.add('kubejs:tc_level', Text.of('\u00A7oGives a Tinkers Construct Tool the \u00A7e"Improvable"\u00A7f\u00A7o Trait which unlocks Tool Leveling').color('#FFFFFF'));
@@ -92,8 +92,6 @@ ItemEvents.tooltip(event => {
 	event.add('vampirism:holy_water_splash_bottle_normal', Text.of('§cWarning:§r Do NOT put inside Cloud Chest, it causes a crash!').color('#FFFFFF'));
 	event.add('vampirism:holy_water_splash_bottle_enhanced', Text.of('§cWarning:§r Do NOT put inside Cloud Chest, it causes a crash!').color('#FFFFFF'));
 	event.add('vampirism:holy_water_splash_bottle_ultimate', Text.of('§cWarning:§r Do NOT put inside Cloud Chest, it causes a crash!').color('#FFFFFF'));
-	event.add('farmersdelight:smoked_ham', Text.of('\u00A7oSmoked, not steamed!').color('#FFFFFF'));
-	event.add('minecraft:crying_obsidian', Text.of('§d§oCan be used to stop  Portal corruption!').color('#FFFFFF'));
 	event.add('boss_tools:desh_ingot', Text.of('\u00A7oExclusive To The Moon').color('#FFFFFF'));
 	event.add('cataclysm:void_core', Text.of('\u00A7oDefensive Ability - Right Click the block you are on to Summon ite Spikes in a circular radius around the Player').color('#FFFFFF'));
 	event.add('kubejs:artifact_beating_heart', Text.of('§8A faint heartbeat can be heard inside the darkest crevices of your mind, a terrible voice whispers to you in a language you cannot comprehend...').color('#FFFFFF'));
